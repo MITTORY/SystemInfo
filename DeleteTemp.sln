@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteTemp", "DeleteTemp\DeleteTemp.csproj", "{12AD34A6-038E-4D46-963C-1B2706265536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AD34A6-038E-4D46-963C-1B2706265536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AD34A6-038E-4D46-963C-1B2706265536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AD34A6-038E-4D46-963C-1B2706265536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AD34A6-038E-4D46-963C-1B2706265536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FB721C-DE3C-4501-810D-A281F5FA5AD6}
+	EndGlobalSection
+EndGlobal
